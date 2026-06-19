@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables and credentials
+.env
+*.json
+*.pem
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large datasets
+dataset/
+datasets/
+data/
+train_data/
+test_data/
+
+# Generated outputs
+outputs/
+results/
+runs/
+
+# Model files
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pkl
+*.joblib
